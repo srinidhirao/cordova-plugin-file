@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-file-electron",
+  "name": "cordova-plugin-file",
   "version": "1.0.0",
   "description": "Electron Native Support for Cordova File Plugin",
   "main": "index.js",
